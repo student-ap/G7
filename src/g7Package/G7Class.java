@@ -7,7 +7,7 @@ public class G7Class {
 		
 		
 		//addedd
-		public static void divide(int x, int y);
+		public static void divide(int x, int y){
 		system.out.println(x/y);
 	}
 }
